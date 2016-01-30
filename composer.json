@@ -1,0 +1,7 @@
+{
+    "name": "ourwaystudio/phptopsdk-orders",
+    "description": "Taobao open platform SDK for php.",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
